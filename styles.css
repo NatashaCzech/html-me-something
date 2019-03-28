@@ -11,5 +11,9 @@ body {
 }
 
 .big-sur {
-    text-transform: capitalize
+    text-transform: capitalize;
+}
+
+img {
+  width 100%;
 }
